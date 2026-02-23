@@ -1,28 +1,72 @@
-﻿Farmlytics: Smart Dairy Analytics
+# 🐄 Dairy Farm & Brand Insights Dashboard
 
-#Project Overview
+<h1>🚀Project Overview</h1>
 
-The objective of this project is to design an analytical dashboard that consolidates operational and financial data of the dairy sector. It tracks key metrics such as production volume, livestock count, land utilization, revenue, and brand-wise performance.
-The dashboard covers an industry scale of approximately 2.18 million acres of land and 238,000 cows, and compares the performance of major brands including Amul, Mother Dairy, and Sudha, enabling clear performance evaluation and trend analysis.
+The goal of this project is to provide a comprehensive analytical view of the **dairy ecosystem**, tracking key operational and financial metrics across major brands and product lines. The dashboard highlights the economic importance of the dairy sector, which includes over **2.18 million** acres of land and almost **238,000 cows**, and analyzes the performance of major brands such as **Amul**, **PPatnam**, **Mother Dairy**, and **Sudha**.
+
+<h1>🥛 Top Dairy Brands </h1>
+
+| **Logo** | **Brand** | **Description** |
+|----------|-----------|------------------|
+| <img src="https://github.com/MDAsif-bit01/-Dairy-Farm-and-Brand-Insights-using-power-bi/blob/main/Palle2patnam.png" width="100"/> | **Palle2patnam** | A brand focused on bridging rural production and urban consumption of fresh dairy products.|
+| <img src="https://github.com/MDAsif-bit01/-Dairy-Farm-and-Brand-Insights-using-power-bi/blob/main/amul.jpg" width="100"/> | **Amul** | One of India's largest and most recognizable dairy cooperatives.|
+| <img src="https://github.com/MDAsif-bit01/-Dairy-Farm-and-Brand-Insights-using-power-bi/blob/main/images.png" width="100"/> | **Mother Dairy** | A leading Indian dairy producer known for its wide range of milk and food products.|
+| <img src="https://github.com/MDAsif-bit01/-Dairy-Farm-and-Brand-Insights-using-power-bi/blob/main/sudha-logo.png" width="80"/> | **Sudha** | A prominent cooperative brand in the Bihar and Jharkhand region. |
+| <img src="https://github.com/MDAsif-bit01/-Dairy-Farm-and-Brand-Insights-using-power-bi/blob/main/raj-dairy-logo.png" width="100"/> | **Raaj Milk** | A growing brand offering fresh milk and a variety of dairy products.|
+
+<h1>📊 Key Performance Indicators (KPIs) & Products</h1>
+
+| **📐 Metric**                  | **🔣 Value**            | **Primary Dairy Products**                             |                      |  
+|--------------------------------|--------------------------|--------------------------------------------------------|----------------------|      
+|💰Total Revenue                 | ₹58.73 Million           | <img src="https://github.com/MDAsif-bit01/-Dairy-Farm-and-Brand-Insights-using-power-bi/blob/main/image%202/butter%20milk.jpg" width="100"/> |                                                                        <img src="https://github.com/MDAsif-bit01/-Dairy-Farm-and-Brand-Insights-using-power-bi/blob/main/image%202/butter.jpeg" width="100"/> |     
+|🌾 Total Land Area              | 2.18 Million Acres       | <img src="https://github.com/MDAsif-bit01/-Dairy-Farm-and-Brand-Insights-using-power-bi/blob/main/image%202/curd.jpg" width="100"/> |                                                                                 <img src="https://github.com/MDAsif-bit01/-Dairy-Farm-and-Brand-Insights-using-power-bi/blob/main/image%202/cheese.jpg" width="100"/>  |             
+|🥛Daily Milk Production         | 2.17 Million Liters/Kg   | <img src="https://github.com/MDAsif-bit01/-Dairy-Farm-and-Brand-Insights-using-power-bi/blob/main/image%202/ghee.jpg" width="100"/> |                                                                                 <img src="https://github.com/MDAsif-bit01/-Dairy-Farm-and-Brand-Insights-using-power-bi/blob/main/image%202/yoghurt.jpg" width="100"/>  |  
+|🐄 Number of Cows               | 238 Thousand             | <img src="https://github.com/MDAsif-bit01/-Dairy-Farm-and-Brand-Insights-using-power-bi/blob/main/image%202/milk.jpg" width="100"/> |                                                                                <img src="https://github.com/MDAsif-bit01/-Dairy-Farm-and-Brand-Insights-using-power-bi/blob/main/image%202/ice-cream.jpg" width="100"/>  | 
+
+<h1>⚙️ India’s Dairy</h1>
+
+**India is the world’s largest milk producer, powered by millions of small and medium farms spread across rural regions. Major brands like Amul, Mother Dairy, and Sudha drive strong regional dominance through wide sourcing networks and consistent value-added product demand. Rising consumption of curd, paneer, butter, and packaged milk continues to push revenue growth, while challenges remain in cold-chain logistics and livestock health. Modern farms are gradually adopting automation, better feed management, and sustainability practices to improve quality and reduce costs. Overall, India’s dairy sector is expanding steadily, linking rural livelihoods with growing urban markets.**
 
  ![](https://github.com/shreyakausha02/PROJECTS_2/blob/main/power_bi1.jpg.jpeg)
 
- #Dashboard Features
+ <h1>🚀 Features</h1>
 
-Geographic Analysis
-Interactive map displaying the distribution of dairy farms across India, highlighting state-wise concentration and regional clusters.
+🗺️ Geographic Visualization
 
-Farm Size Segmentation
-Comparative visualization of small, medium, and large farms to assess regional production capacity.
+Map-based distribution of dairy farms across India | Highlights state-wise density and farm clusters. 
 
-Product Revenue Treemap
-Hierarchical breakdown of revenue by dairy product category to identify high- and low-performing products.
+📊 Farm Size Distribution
 
-Brand Performance Comparison
-Comparative analysis of major brands including Amul, Mother Dairy, and Sudha for revenue and market share evaluation.
+Comparative view of small, medium, and large farms | Helps identify regional production capacity. 
 
-Livestock and Land Utilization Metrics
-Key indicators tracking total cattle count and land usage to measure operational scale and efficiency.
+🌳 Product Revenue Treemap
+
+Visual breakdown of revenue generated by each dairy product | Quick pattern recognition for high vs low revenue items.  
+
+<h1>🔍 Data Insights</h1>
+
+The dashboard exposes clear regional patterns in **India’s dairy ecosystem**. Farms operate across diverse states — from the **dairy-strong plains of Gujarat to the fertile agricultural lands of Bihar**.
+Each brand and farm contributes differently to **production volume**, **revenue generation**, **livestock strength**, and **market presence**.
+
+<h1>🛠️ Technologies Used</h1>
+
+📐 Data Visualization
+
+ Power BI | Interactive charts, maps, and analytics layers.
+
+🗺️ Geographic Information Systems (GIS)
+
+ Spatial mapping of farm locations | Layer-based state and region segmentation.
+
+<h1>🎯 Use Cases</h1>
+
+🧭 Industry Analysis & Market Research
+
+Evaluate dairy production and brand presence across India.
+
+💰 Investment Decision-Making
+
+Identify high-potential states, products, or brands.
 
 
 
